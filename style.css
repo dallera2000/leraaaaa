@@ -1,0 +1,26 @@
+body{
+  background-color:DarkSalmon;
+}
+header{
+  background-color:IndianRed;
+  color:White;
+  text-align:center;
+  height:40px;
+}
+main{
+  background-color:MistyRose;
+  color:DarkRed;
+  padding:40px 50px;
+}
+footer{
+  background-color:IndianRed;
+  color:White;
+  padding:10px;
+  height:40px;
+}
+p{
+  border:solid 2px DarkRed;
+  padding:10px;
+  margin:10px;
+  border-rabius:10px;
+}
